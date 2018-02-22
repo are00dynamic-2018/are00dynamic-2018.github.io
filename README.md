@@ -2,4 +2,4 @@
 Site de l'ARE Dynamic 2018 (Sorbonne Université)
 
 
-## Liste des projets des étudiants
+## Liste des projets des étudiants :
