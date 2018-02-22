@@ -13,5 +13,4 @@
 - [Souverains-des-flocons](https://are00dynamic-2018.github.io/Souverains-des-flocons/)
 - [reseau_neuronal](https://are00dynamic-2018.github.io/reseau_neuronal/)
 - [ARE-LE-JEU-DE-LA-VIE](https://are00dynamic-2018.github.io/ARE-LE-JEU-DE-LA-VIE/)
-- [zzx](https://are00dynamic-2018.github.io/zzx/)
 
