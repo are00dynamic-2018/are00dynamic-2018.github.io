@@ -12,5 +12,5 @@
 - [ARE-dynamics-feu-de-foret](https://are00dynamic-2018.github.io/ARE-dynamics-feu-de-foret/)
 - [Souverains-des-flocons](https://are00dynamic-2018.github.io/Souverains-des-flocons/)
 - [reseau_neuronal](https://are00dynamic-2018.github.io/reseau_neuronal/)
-- [propagation d'une maladie](https://github.com/are00dynamic-2018/Propagation-d-une-maladie-/)
+- [propagation d'une maladie](https://are00dynamic-2018.github.io/Propagation-d-une-maladie-/)
 
